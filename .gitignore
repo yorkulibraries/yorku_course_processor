@@ -1,0 +1,9 @@
+## Git Ignore
+
+temp/*
+raw_data/by_campus/*
+raw_data/by_campus/2023_2024/*
+raw_data/by_campus/2024_2025/separate/*
+raw-data/by_campus/2023_2024/All.html
+raw-data/by_campus/2023_2024/separate/
+output/*.csv
